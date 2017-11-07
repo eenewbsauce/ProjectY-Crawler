@@ -1,0 +1,25 @@
+{
+  "name": "ProjectY-Crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "watch": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eenewbsauce/ProjectY-Crawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eenewbsauce/ProjectY-Crawler/issues"
+  },
+  "homepage": "https://github.com/eenewbsauce/ProjectY-Crawler#readme",
+  "dependencies": {
+    "osmosis": "^1.1.4"
+  }
+}
